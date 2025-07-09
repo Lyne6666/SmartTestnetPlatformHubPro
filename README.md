@@ -1,2 +1,1 @@
-# SmartTestnetPlatformHubPro
-Advanced SmartTestnetPlatformHubPro project
+.
